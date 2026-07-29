@@ -1,0 +1,93 @@
+Topic
+Difficulty Level (Medium / Hard)
+Question ID (M1–M5, H1–H5)
+Scenario Description
+Programming Task / Question
+Expected Concepts Tested
+Input (if applicable)
+Expected Output / Behavior
+CLI/CLR/Framework overview (context), Console app, variables, primitive types, operators, Math, conversions, Parse/TryParse
+Medium
+M1
+A retail store cashier enters the price of an item, quantity purchased, and discount percentage. 
+Invalid values are sometimes entered due to typing mistakes.
+Develop a Console application that accepts item price, quantity, and discount percentage. 
+Validate all inputs using TryParse, calculate subtotal, discount amount, and final payable amount. 
+Reject negative values and prompt the user appropriately.
+Console input/output, variables, primitive types, arithmetic operators, Math.Round(), TryParse, validation
+Price: 249.99 Quantity: 3 Discount: 10
+Display subtotal, discount amount, final payable amount rounded to two decimal places. Display validation errors for invalid or negative input.
+CLI/CLR/Framework overview (context), Console app, variables, primitive types, operators, Math, conversions, Parse/TryParse
+Medium
+M2
+A fitness trainer wants a console utility that calculates Body Mass Index (BMI) for clients, but users frequently enter height in different formats.
+Build a Console application that accepts weight (kg) and height (meters). Validate numeric input, calculate BMI, round to two decimals, and classify the user into BMI categories. Handle invalid and zero values safely.
+Variables, primitive types, Math operators, Parse/TryParse, conditional logic, Math.Round()
+Weight: 72.5 Height: 1.72
+Display BMI and appropriate category. Reject zero or negative height and invalid numeric values.
+CLI/CLR/Framework overview (context), Console app, variables, primitive types, operators, Math, conversions, Parse/TryParse
+Medium
+M3
+A warehouse manager records package dimensions to calculate shipping volume. Employees occasionally enter decimal values incorrectly.
+Create a Console application that accepts length, width, and height. Validate inputs, calculate volume, and display the result. Reject invalid or non-positive dimensions and prevent calculation until valid data is entered.
+Console application, double, variables, operators, Parse/TryParse, validation
+Length: 25.5 Width: 18.2 Height: 12
+Display calculated volume. Handle invalid numeric entries gracefully without crashing.
+CLI/CLR/Framework overview (context), Console app, variables, primitive types, operators, Math, conversions, Parse/TryParse
+Medium
+M4
+A bank employee manually enters customer deposit and withdrawal amounts to determine the remaining balance. Incorrect inputs are common.
+Design a Console application that accepts opening balance, total deposits, and total withdrawals. Validate all values and calculate the final balance. Prevent withdrawals from exceeding the available balance.
+Variables, arithmetic operators, numeric conversions, TryParse, validation, business rules
+Opening Balance: 5000 Deposits: 2500 Withdrawals: 3200
+Display updated balance. Show an error if withdrawals exceed available funds or inputs are invalid.
+CLI/CLR/Framework overview (context), Console app, variables, primitive types, operators, Math, conversions, Parse/TryParse
+Medium
+M5
+A school administrator enters marks obtained in five subjects to calculate student performance. Some marks are accidentally entered as text or outside the valid range.
+Build a Console application that accepts marks for five subjects, validates that each mark is between 0 and 100, calculates total, average, percentage, and displays the rounded percentage.
+Arrays not required, variables, arithmetic operators, Parse/TryParse, Math.Round(), validation
+Five marks such as: 78, 82, 91, 65, 88
+Display total, average, percentage, and reject invalid marks or non-numeric values.
+CLI/CLR/Framework overview (context), Console app, variables, primitive types, operators, Math, conversions, Parse/TryParse
+Hard
+H1
+A utility billing department wants a reusable billing calculator where different customer types (Residential and Commercial) calculate bills differently, and input files frequently contain invalid values.
+Design a Console application using multiple classes and interfaces to calculate electricity bills. Accept validated user inputs, apply customer-specific calculation rules, and ensure invalid numeric values do not terminate the application.
+Multiple classes, interfaces, TryParse, arithmetic operators, type conversions, validation, extensibility
+Customer Type, Units Consumed, Rate, Fixed Charges
+Correct bill calculation based on customer type. Invalid inputs should be handled gracefully with meaningful messages.
+CLI/CLR/Framework overview (context), Console app, variables, primitive types, operators, Math, conversions, Parse/TryParse
+Hard
+H2
+A payroll system imports employee working hours entered manually by HR. Decimal hours, overtime, and invalid numeric entries must be handled without affecting payroll processing.
+Create a Console-based payroll calculator using separate classes for Employee and PayrollCalculator. Validate all inputs using TryParse, calculate regular pay, overtime pay, and gross salary while handling incorrect or extreme values.
+Multiple classes, object-oriented design, primitive types, conversions, arithmetic operators, validation, Math.Round()
+Employee Name, Hours Worked, Hourly Rate
+Correct salary calculation with overtime rules. Invalid values should be rejected without application failure.
+CLI/CLR/Framework overview (context), Console app, variables, primitive types, operators, Math, conversions, Parse/TryParse
+Hard
+H3
+A logistics company calculates package shipping charges using different pricing strategies based on package type. Incorrect weight and distance values frequently occur.
+Build a Console application using an interface-based design where different package types calculate shipping cost differently. Validate numeric inputs, prevent negative or overflow-prone calculations, and display the final shipping cost.
+Interfaces, multiple classes, arithmetic operators, numeric conversions, validation, TryParse, correctness
+Package Type, Weight, Distance
+Display shipping cost according to package type. Reject invalid or unreasonable input values.
+CLI/CLR/Framework overview (context), Console app, variables, primitive types, operators, Math, conversions, Parse/TryParse
+Hard
+H4
+A hospital registration system records patient age, weight, height, and body temperature. Since data is entered manually, the system must remain reliable even when multiple invalid values are entered consecutively.
+Design a Console application with separate validation and patient classes. Continuously prompt until all values are valid, perform necessary numeric conversions, calculate BMI, and display a formatted patient summary.
+Classes, validation layer, Parse/TryParse, variables, primitive types, conversions, Math, user input handling
+Age, Weight, Height, Temperature
+Application should never terminate due to invalid input and should display a validated patient summary with calculated BMI.
+CLI/CLR/Framework overview (context), Console app, variables, primitive types, operators, Math, conversions, Parse/TryParse
+Hard
+H5
+A financial analysis tool receives investment details entered manually. Different investment types apply different return calculations, and users often enter invalid percentages or investment amounts.
+Develop a Console application with an extensible class design where different investment calculators implement a common interface. Accept validated numeric inputs, calculate projected returns, handle conversion errors, round results appropriately, and ensure the application is easy to extend for future investment types.
+Interfaces, multiple classes, arithmetic operations, Math functions, Parse/TryParse, type conversions, extensibility, validation
+Investment Type, Principal Amount, Annual Rate (%), Duration (Years)
+Display projected investment value with proper rounding. Invalid numeric input, negative values, or impossible percentages must be handled safely without crashing.
+
+
