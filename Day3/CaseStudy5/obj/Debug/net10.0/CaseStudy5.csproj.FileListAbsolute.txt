@@ -1,0 +1,14 @@
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy5\bin\Debug\net10.0\CaseStudy5.exe
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy5\bin\Debug\net10.0\CaseStudy5.deps.json
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy5\bin\Debug\net10.0\CaseStudy5.runtimeconfig.json
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy5\bin\Debug\net10.0\CaseStudy5.dll
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy5\bin\Debug\net10.0\CaseStudy5.pdb
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy5\obj\Debug\net10.0\CaseStudy5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy5\obj\Debug\net10.0\CaseStudy5.AssemblyInfoInputs.cache
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy5\obj\Debug\net10.0\CaseStudy5.AssemblyInfo.cs
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy5\obj\Debug\net10.0\CaseStudy5.csproj.CoreCompileInputs.cache
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy5\obj\Debug\net10.0\CaseStudy5.dll
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy5\obj\Debug\net10.0\refint\CaseStudy5.dll
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy5\obj\Debug\net10.0\CaseStudy5.pdb
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy5\obj\Debug\net10.0\CaseStudy5.genruntimeconfig.cache
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy5\obj\Debug\net10.0\ref\CaseStudy5.dll

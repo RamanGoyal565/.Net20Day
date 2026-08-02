@@ -1,0 +1,14 @@
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy9\obj\Debug\net10.0\CaseStudy9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy9\obj\Debug\net10.0\CaseStudy9.AssemblyInfoInputs.cache
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy9\obj\Debug\net10.0\CaseStudy9.AssemblyInfo.cs
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy9\obj\Debug\net10.0\CaseStudy9.csproj.CoreCompileInputs.cache
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy9\bin\Debug\net10.0\CaseStudy9.exe
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy9\bin\Debug\net10.0\CaseStudy9.deps.json
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy9\bin\Debug\net10.0\CaseStudy9.runtimeconfig.json
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy9\bin\Debug\net10.0\CaseStudy9.dll
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy9\bin\Debug\net10.0\CaseStudy9.pdb
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy9\obj\Debug\net10.0\CaseStudy9.dll
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy9\obj\Debug\net10.0\refint\CaseStudy9.dll
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy9\obj\Debug\net10.0\CaseStudy9.pdb
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy9\obj\Debug\net10.0\CaseStudy9.genruntimeconfig.cache
+C:\Users\Arora Computers\Desktop\Day 3\CaseStudy9\obj\Debug\net10.0\ref\CaseStudy9.dll

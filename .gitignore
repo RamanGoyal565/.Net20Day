@@ -1,1 +1,6 @@
 *.exe
+.vs/
+
+# Ignore build output and intermediate compilation directories
+[Bb]in/
+[Oo]bj/
