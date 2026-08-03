@@ -41,3 +41,4 @@ class Program
 
         Console.WriteLine(result.HasValue ? result.Value.ToString("F2") : "null");
     }
+}
